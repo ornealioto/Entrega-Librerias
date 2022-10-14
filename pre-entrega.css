@@ -1,0 +1,14 @@
+.rojo{
+    background-color: red;
+}
+
+.verde{
+    background-color: green;
+}
+
+#boton{
+    position: absolute;
+    bottom: 37%;
+    right: 54%;
+    
+}
